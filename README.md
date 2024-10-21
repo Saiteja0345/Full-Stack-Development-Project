@@ -1,5 +1,7 @@
 # dynamic-portfolio-website
 
 # Screenshot
-<img align="left" alt="screenshot" height="500px" width="100%" src="https://github.com/Madhuredra/dynamic-portfolio-website/blob/master/portfolio.png" />
+
+![image](https://github.com/user-attachments/assets/a9f3d103-9430-4887-be31-47da2865ffad)
+
 # Full-Stack-Development-Project
